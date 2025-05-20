@@ -1,0 +1,1 @@
+Developed an interactive weather application using HTML, CSS and JavaScript that delivers real-time forecasts, location-based updates, and customizable alerts through an intuitive interface featuring responsive design and dynamic meteorological visualizations.
